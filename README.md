@@ -9,7 +9,7 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently working on geospatial visualizations of COVID-19 cases in the US using [New York Times data](https://github.com/nytimes/covid-19-data) 
+- 🔭 I’m currently working on [visualizations](https://github.com/VictorCannestro/COVID-19_project) of COVID-19 cases in the US using [New York Times data](https://github.com/nytimes/covid-19-data) 
 - 📫 How to reach me: vcannestro [at] gmail [dot] com
 - 😄 Pronouns: he/him
 
