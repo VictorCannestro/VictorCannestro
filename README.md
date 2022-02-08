@@ -44,6 +44,7 @@
 ![](https://img.shields.io/badge/Tool-PyTest-informational?style=flat&logo=pytest&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-JUnit-informational?style=flat&logo=JUnit5&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-TestNG-informational?style=flat&logo=TestNG&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-RESTassured-informational?style=flat&logo=restassured&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=GNU&logoColor=white&color=3572A5)
