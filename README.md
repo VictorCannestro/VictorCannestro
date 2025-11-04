@@ -10,7 +10,7 @@
 - ⚡ Fun fact: 
 -->
 
-- 🔭 I’m currently working on a Java dataframe library that enables highly readable, chainable pipelines -- stay tuned for updates 
+- 🔭 I’m currently working on a [Java dataframe library](https://github.com/VictorCannestro/drafttable) that enables highly readable, chainable pipelines -- stay tuned for updates 
 - 📫 How to reach me: vcannestro [at] gmail [dot] com
 - 😄 Pronouns: he/him
 
